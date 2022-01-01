@@ -2,7 +2,6 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
 ![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
 
@@ -105,7 +104,7 @@ jane@example.com (Customer)
 
 The MIT License
 
-Copyright (c) 2020 Traversy Media https://traversymedia.com
+Copyright (c) 2022 Amir Wahla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
